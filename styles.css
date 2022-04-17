@@ -1,0 +1,14 @@
+h1,h2,h3,h4{
+  color:red;
+}
+table,td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+body {
+  background-image: url('image/hoa_xuyen_chi.jpg');
+  background-repeat: no repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
