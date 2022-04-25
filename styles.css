@@ -1,6 +1,9 @@
-h1,h2,h3,h4,p{
+h1,h2,h3,h4{
   color:red;
-  font-size: 200px;
+}
+p{
+  font-size: 100px;
+}
 }
 table,td {
     border: 1px solid black;
